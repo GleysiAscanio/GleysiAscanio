@@ -8,7 +8,7 @@
 
 <!-- Badges de perfil -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gleysi-Ascanio&label=Visitas%20al%20Perfil&color=FF6B9D&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=GleysiAscanio&label=Visitas%20al%20Perfil&color=FF6B9D&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/badge/Ubicación-Cali,%20Colombia-FF6B9D?style=for-the-badge&logo=google-maps&logoColor=white" alt="location"/>
   <img src="https://img.shields.io/badge/Enfoque-Frontend%20Development-FF6B9D?style=for-the-badge&logo=react&logoColor=white" alt="focus"/>
   <img src="https://img.shields.io/badge/Estado-Disponible%20para%20proyectos-00D9FF?style=for-the-badge&logo=checkmarx&logoColor=white" alt="status"/>
@@ -20,37 +20,31 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-```typescript
-const gleysi = {
-    rol: "Front-End Developer",
-    ubicación: "Cali, Colombia 🇨🇴",
-    añosExperiencia: 3,
-    
-    cualidades: [
-        "💪 Fuerte determinación",
-        "🎨 Creatividad sin límites",
-        "🚀 Autonomía e iniciativa",
-        "🧩 Resolución de problemas",
-        "📚 Aprendizaje continuo"
-    ],
-    
-    filosofía: "Cada día es una nueva oportunidad para crecer y aprender algo nuevo",
-    
-    actualmente: {
-        trabajando: "Coally - Plataforma de empleabilidad universitaria",
-        aprendiendo: ["TypeScript avanzado", "Testing con Vitest", "Next.js"],
-        intereses: ["PWAs", "UI/UX Design", "Accesibilidad Web"]
-    },
-    
-    disponiblePara: ["Freelance", "Colaboraciones", "Proyectos Open Source"]
-};
-```
+### 🎯 Desarrolladora Front-End | Cali, Colombia 🇨🇴
 
-### 🎯 Lo que me define
+Soy una **desarrolladora Front-End** con **3 años de experiencia** creando experiencias web que marquen la diferencia. Me caracterizo por mi **creatividad**, **autonomía** y **capacidad de adaptación**, cualidades que me han permitido enfrentar diversos desafíos tecnológicos.
 
-Soy una **desarrolladora Front-End** con pasión por crear experiencias web que marquen la diferencia. Me caracterizo por mi **creatividad**, **autonomía** y **capacidad de adaptación**, cualidades que me han permitido enfrentar diversos desafíos tecnológicos. 
+**💪 Mis cualidades:**
+- Fuerte determinación y perseverancia
+- Creatividad sin límites en cada proyecto
+- Autonomía e iniciativa propia
+- Excelente resolución de problemas
+- Aprendizaje continuo y autodidacta
 
-Creo firmemente en el **trabajo en equipo** y la **resolución efectiva de problemas**. Como **autodidacta**, el aprendizaje continuo es mi motor, y cada proyecto es una oportunidad para mejorar mis habilidades y crecer profesionalmente.
+**🚀 Actualmente:**
+- 💼 Trabajando en **Coally** - Plataforma de empleabilidad universitaria
+- 📚 Aprendiendo **TypeScript avanzado**, **Testing con Vitest** y **Next.js**
+- 🎨 Interesada en **PWAs**, **UI/UX Design** y **Accesibilidad Web**
+
+**✨ Mi filosofía:**
+> *"Cada día es una nueva oportunidad para crecer y aprender algo nuevo"*
+
+**💼 Disponible para:**
+- Proyectos Freelance
+- Colaboraciones en equipo
+- Contribuciones Open Source
+
+<br clear="right"/>
 
 ---
 
@@ -170,90 +164,152 @@ const proyectoActual = {
 
 <div align="center">
 
-### Frontend Development
+### 💻 Frontend Development
 
-| Tecnología | Nivel | Barra de Progreso |
-|------------|-------|-------------------|
-| **HTML5** | Avanzado | ![80%](https://progress-bar.dev/80?color=E34F26&width=300) |
-| **CSS3** | Avanzado | ![69%](https://progress-bar.dev/69?color=1572B6&width=300) |
-| **JavaScript** | Experto | ![87%](https://progress-bar.dev/87?color=F7DF1E&width=300) |
-| **React.js** | Avanzado | ![70%](https://progress-bar.dev/70?color=61DAFB&width=300) |
-| **Next.js** | Intermedio | ![52%](https://progress-bar.dev/52?color=000000&width=300) |
-| **TypeScript** | Avanzado | ![80%](https://progress-bar.dev/80?color=007ACC&width=300) |
-| **Tailwind CSS** | Experto | ![84%](https://progress-bar.dev/84?color=38B2AC&width=300) |
-| **Material UI** | Avanzado | ![75%](https://progress-bar.dev/75?color=0081CB&width=300) |
-| **Bootstrap** | Avanzado | ![80%](https://progress-bar.dev/80?color=563D7C&width=300) |
+| 🎯 Tecnología | 📊 Nivel | 💯 Dominio |
+|---------------|----------|------------|
+| **HTML5** | Avanzado | 80% |
+| **CSS3** | Avanzado | 69% |
+| **JavaScript** | Experto | 87% |
+| **React.js** | Avanzado | 70% |
+| **Next.js** | Intermedio | 52% |
+| **TypeScript** | Avanzado | 80% |
+| **Tailwind CSS** | Experto | 84% |
+| **Material UI** | Avanzado | 75% |
+| **Bootstrap** | Avanzado | 80% |
 
-### Backend & Databases
+### 🛠️ Backend & Databases
 
-| Tecnología | Nivel | Barra de Progreso |
-|------------|-------|-------------------|
-| **Node.js** | Avanzado | ![69%](https://progress-bar.dev/69?color=43853D&width=300) |
-| **MongoDB** | Intermedio | ![48%](https://progress-bar.dev/48?color=4EA94B&width=300) |
-| **Firebase** | Intermedio | ![37%](https://progress-bar.dev/37?color=FFCA28&width=300) |
-| **MySQL** | Avanzado | ![68%](https://progress-bar.dev/68?color=00000F&width=300) |
+| 🎯 Tecnología | 📊 Nivel | 💯 Dominio |
+|---------------|----------|------------|
+| **Node.js** | Avanzado | 69% |
+| **MongoDB** | Intermedio | 48% |
+| **Firebase** | Intermedio | 37% |
+| **MySQL** | Avanzado | 68% |
 
-### Testing & Tools
+### 🧪 Testing & Tools
 
-| Tecnología | Nivel | Barra de Progreso |
-|------------|-------|-------------------|
-| **Jest** | Intermedio | ![45%](https://progress-bar.dev/45?color=C21325&width=300) |
-| **Vitest** | Intermedio | ![29%](https://progress-bar.dev/29?color=6E9F18&width=300) |
-| **Git** | Avanzado | ![80%](https://progress-bar.dev/80?color=F05032&width=300) |
-| **GitHub** | Avanzado | ![80%](https://progress-bar.dev/80?color=100000&width=300) |
+| 🎯 Tecnología | 📊 Nivel | 💯 Dominio |
+|---------------|----------|------------|
+| **Jest** | Intermedio | 45% |
+| **Vitest** | Intermedio | 29% |
+| **Git** | Avanzado | 80% |
+| **GitHub** | Avanzado | 80% |
 
 </div>
 
 ---
+## ## 🎨 Proyectos Destacados
 
-## 🎨 Proyectos Destacados
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🎮 **League of Legends Data Viewer**
-```javascript
-{
-  descripción: "App web responsive para visualizar datos de la API de LoL",
-  tecnologías: ["JavaScript", "HTML", "CSS", "API REST"],
-  características: ["Consumo de API", "Responsive Design", "Manipulación de datos"]
-}
-```
+### 🎮 League of Legends Data Viewer
 
-### 🎫 **Plataforma de Conferencias Virtuales**
-```javascript
-{
-  descripción: "Sistema de venta de entradas para eventos virtuales",
-  tecnologías: ["Vanilla JavaScript", "HTML", "CSS", "Payment Gateway"],
-  características: ["Pagos con tarjeta", "Gestión de entradas", "UI intuitiva"]
-}
-```
+> 📱 **Aplicación web responsive para visualizar datos de la API de League of Legends**
 
-### ✈️ **Red Social de Viajes**
-```javascript
-{
-  descripción: "Plataforma social para viajeros",
-  tecnologías: ["Vanilla JavaScript", "Firebase", "HTML", "CSS"],
-  características: ["Auth Firebase", "Real-time DB", "Comunidad de usuarios"]
-}
-```
+**🛠️ Tecnologías:**  
+`JavaScript` • `HTML5` • `CSS3` • `API REST`
 
-### 🍽️ **Interfaz de Restaurante**
-```javascript
-{
-  descripción: "Sistema de pedidos y menú digital",
-  tecnologías: ["React.js", "Firebase", "Material UI"],
-  características: ["Gestión de pedidos", "Menú interactivo", "Dashboard admin"]
-}
-```
+**✨ Características destacadas:**
+- 📊 Consumo y visualización de datos en tiempo real
+- 📱 Diseño responsive adaptable a todos los dispositivos
+- 🎯 Manipulación dinámica de información de campeones
+- 🎨 Interfaz intuitiva y fácil de navegar
 
-### 📦 **Librería NPM - MD Analyzer**
-```javascript
-{
-  descripción: "Librería para análisis de archivos Markdown",
-  tecnologías: ["Node.js", "NPM", "JavaScript"],
-  características: ["Extracción de info", "CLI tool", "Publicada en NPM"]
-}
-```
+**🎯 Enfoque:** Integración de APIs y diseño responsive
+
+</td>
+<td width="50%" valign="top">
+
+### 🎫 Plataforma de Conferencias
+
+> 💼 **Sistema completo de difusión y venta de entradas para eventos virtuales**
+
+**🛠️ Tecnologías:**  
+`Vanilla JavaScript` • `HTML5` • `CSS3` • `Payment Gateway`
+
+**✨ Características destacadas:**
+- 💳 Integración completa de pasarela de pagos
+- 🎟️ Sistema de gestión de entradas digitales
+- 🎨 Interfaz de usuario intuitiva y moderna
+- ✅ Proceso de compra simplificado
+
+**🎯 Enfoque:** E-commerce y gestión de pagos
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ✈️ Red Social de Viajes
+
+> 🌍 **Plataforma social diseñada para conectar personas apasionadas por viajar**
+
+**🛠️ Tecnologías:**  
+`JavaScript` • `Firebase` • `HTML5` • `CSS3`
+
+**✨ Características destacadas:**
+- 🔐 Sistema de autenticación segura con Firebase Auth
+- ⚡ Base de datos en tiempo real con Firestore
+- 👥 Funcionalidades sociales (posts, likes, comentarios)
+- 🗺️ Compartir experiencias y destinos de viaje
+
+**🎯 Enfoque:** Aplicaciones en tiempo real y autenticación
+
+</td>
+<td width="50%" valign="top">
+
+### 🍽️ Sistema de Restaurante
+
+> 🍴 **Aplicación completa de gestión para restaurantes con menú digital**
+
+**🛠️ Tecnologías:**  
+`React.js` • `Firebase` • `Material UI`
+
+**✨ Características destacadas:**
+- 📋 Gestión eficiente de pedidos y órdenes
+- 🍕 Menú digital interactivo y actualizable en tiempo real
+- 📊 Dashboard administrativo con métricas
+- 🎨 Diseño moderno con Material UI
+
+**🎯 Enfoque:** React y gestión de estado
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📦 Librería NPM - MD Analyzer
+
+> 🔧 **Librería profesional para análisis y procesamiento de archivos Markdown**
+
+**🛠️ Tecnologías:**  
+`Node.js` • `NPM` • `JavaScript` • `CLI Tools`
+
+**✨ Características destacadas:**
+- 🔍 Extracción inteligente de información específica de archivos .md
+- ⚙️ Herramienta CLI para uso desde terminal y automatización
+- 📦 Publicada y disponible en el registro oficial de NPM
+- 📚 Documentación completa con ejemplos de uso
+
+**🎯 Enfoque:** Desarrollo de herramientas y librerías reutilizables
+
+</td>
+<td width="50%" valign="top">
+
+<!-- Espacio vacío intencional para mantener el balance -->
+
+</td>
+</tr>
+
+</table>
 
 ---
+
 
 ## 🎓 Formación Académica
 
@@ -293,17 +349,17 @@ const proyectoActual = {
 ## 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gleysi-Ascanio&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gleysi-Ascanio&theme=radical&hide_border=true&background=0D1117&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GleysiAscanio&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&text_color=FFFFFF" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=GleysiAscanio&theme=radical&hide_border=true&background=0D1117&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gleysi-Ascanio&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=FFFFFF&langs_count=10" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GleysiAscanio&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=FFFFFF&langs_count=10" />
 </p>
 
 <div align="center">
 
-![Actividad](https://github-readme-activity-graph.vercel.app/graph?username=Gleysi-Ascanio&theme=react-dark&bg_color=0D1117&color=FF6B9D&line=00D9FF&point=FFFFFF&area=true&hide_border=true)
+![Actividad](https://github-readme-activity-graph.vercel.app/graph?username=GleysiAscanio&theme=react-dark&bg_color=0D1117&color=FF6B9D&line=00D9FF&point=FFFFFF&area=true&hide_border=true)
 
 </div>
 
@@ -322,13 +378,13 @@ const proyectoActual = {
 ## 📫 Conectemos
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gleysi-ascanio" target="_blank">
+  <a href="https://www.linkedin.com/in/GleysiAscanio" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:gleysiascanio29@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/Gleysi-Ascanio" target="_blank">
+  <a href="https://github.com/GleysiAscanio" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="tel:+573241238137">
