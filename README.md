@@ -53,18 +53,11 @@ Soy una **desarrolladora Front-End** con **3 años de experiencia** creando expe
 ### 🔷 **Coally** | Front-End Developer (Freelance)
 **📅 Octubre 2024 - Actualidad**
 
-```javascript
-const proyectoActual = {
-    plataforma: "Sistema de empleabilidad universitaria",
-    tecnologías: ["React.js", "TypeScript", "Material UI", "Axios", "Jest"],
-    logros: [
-        "🎓 Desarrollo de interfaces para mentores y coordinadores",
-        "🤖 Integración de IA para selección de candidatos",
-        "👥 Módulos multirol: estudiantes, empresas, mentores",
-        "📈 Mejora en la experiencia de usuario y escalabilidad"
-    ]
-};
-```
+- 🎓 Desarrollo de interfaces para mentores y coordinadores en plataforma de empleabilidad universitaria
+- 🤖 Integración de inteligencia artificial para selección automatizada de candidatos
+- 👥 Implementación de módulos multirol: estudiantes, empresas, mentores y coordinadores
+- 📈 Mejora significativa en la experiencia de usuario y escalabilidad del sistema
+- ⚛️ Stack: **React.js**, **TypeScript**, **Material UI**, **Axios**, **Jest**
 
 ### 🔷 **Tijiki Tech** | Front-End Developer
 **📅 Diciembre 2023 - Septiembre 2024**
